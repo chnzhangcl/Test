@@ -4,5 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		System.out.println("HelloWorld");
+		int a = 100;
+		System.out.println(a);
 	}
 }
